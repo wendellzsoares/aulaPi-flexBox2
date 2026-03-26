@@ -34,12 +34,7 @@ h1 {
 }
 
 /* Insira o código abaixo */
-.boxb1{
 
-}
-.b7boxb2{
-
-}
 
 .container1 {
 
@@ -76,6 +71,14 @@ h1 {
     padding-left: 250px;
     padding-right: 250px;
 }
-.containerB {
+.container-exercicio-B {
 
+    display: flex;
+    flex-direction: column-reverse;
+
+}
+.container-desafio{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: start;
 }
